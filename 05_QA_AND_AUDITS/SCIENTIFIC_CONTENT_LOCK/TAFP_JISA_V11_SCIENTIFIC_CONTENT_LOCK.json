@@ -1,0 +1,38 @@
+{
+  "project": "TAFP-GraphRAG",
+  "target_journal": "Journal of Information Security and Applications (JISA)",
+  "lock_status": "SCIENTIFIC_CONTENT_LOCKED",
+  "lock_date": "2026-06-27",
+  "authoritative_manuscript": "TAFP_GraphRAG_JISA_MANUSCRIPT_CANDIDATE_V11_20260627.docx",
+  "authoritative_manuscript_sha256": "5e79293d5814b29cca33aaebb7209cfa126eb0aed6367b68ff40ba35105ce85a",
+  "review_pdf": "TAFP_GraphRAG_JISA_AI_REVIEW_V11_20260627.pdf",
+  "review_pdf_sha256": "c1380307485aab440487903e6586e6fb3299907af4b70782483d917d25d50a2d",
+  "locked_scope": [
+    "title and scientific positioning",
+    "abstract and keywords",
+    "claims and claim boundaries",
+    "methods and algorithms",
+    "datasets and experimental protocols",
+    "results, tables, and figures",
+    "discussion, limitations, and conclusions",
+    "references and citation-claim alignment"
+  ],
+  "permitted_post_lock_changes": [
+    "JISA mechanical formatting",
+    "title-page metadata",
+    "corresponding-author contact details",
+    "funding, competing-interest, AI-use, data/code availability, and ethics declarations",
+    "author biography and photograph",
+    "figure file-format/resolution compliance without scientific-content alteration",
+    "repository links and persistent identifiers",
+    "cover letter, highlights, submission forms, and packaging"
+  ],
+  "prohibited_post_lock_changes_without_explicit_unlock": [
+    "new experiments or reruns",
+    "new claims or claim-scope expansion",
+    "new numerical results",
+    "new datasets, attacks, or baselines",
+    "changes to tables or figures that alter scientific meaning",
+    "changes that weaken or materially reinterpret the contribution"
+  ]
+}

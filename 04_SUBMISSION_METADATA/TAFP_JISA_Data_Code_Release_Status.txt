@@ -1,0 +1,6 @@
+Approved release model: private reviewer access during peer review; public release after acceptance.
+GitHub repository: ylmzvrl/tafp-graphrag
+Repository status: private
+Planned release tag: jisa-submission-v1
+Planned archival repository: Zenodo
+Final license, artifact list, and redistribution-license review: PENDING.

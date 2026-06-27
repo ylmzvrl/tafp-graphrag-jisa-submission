@@ -1,0 +1,10 @@
+{
+  "project": "TAFP-GraphRAG",
+  "target_journal": "Journal of Information Security and Applications (JISA)",
+  "generated_utc": "2026-06-27T07:37:51.061066+00:00",
+  "scientific_state": "SCIENTIFIC_CONTENT_LOCKED_SUBMISSION_NOT_LOCKED",
+  "authoritative_docx_sha256": "5e79293d5814b29cca33aaebb7209cfa126eb0aed6367b68ff40ba35105ce85a",
+  "authoritative_pdf_sha256": "c1380307485aab440487903e6586e6fb3299907af4b70782483d917d25d50a2d",
+  "file_count_excluding_generated_inventory_files": 44,
+  "total_bytes_excluding_generated_inventory_files": 69724264
+}

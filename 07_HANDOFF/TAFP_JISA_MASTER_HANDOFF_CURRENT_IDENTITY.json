@@ -1,0 +1,11 @@
+{
+  "filename": "TAFP_JISA_MASTER_HANDOFF_CURRENT.zip",
+  "sha256": "c8c3e4b4c52a772f2a340c56d7f1c6b4accccb027f15549e76c4fa57ae4e39d9",
+  "size_bytes": 45733062,
+  "root_folder": "TAFP_JISA_MASTER_HANDOFF_CURRENT",
+  "scientific_state": "SCIENTIFIC_CONTENT_LOCKED_SUBMISSION_NOT_LOCKED",
+  "authoritative_docx_sha256": "5e79293d5814b29cca33aaebb7209cfa126eb0aed6367b68ff40ba35105ce85a",
+  "github_branch": "jisa/submission-v1",
+  "verified_content_commit": "848176c30b754f5fddad25a1c43c0a5c83d3388d",
+  "planned_tag": "jisa-submission-v1"
+}

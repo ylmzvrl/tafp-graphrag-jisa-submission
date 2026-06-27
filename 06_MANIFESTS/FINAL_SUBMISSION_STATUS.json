@@ -1,0 +1,18 @@
+{
+  "scientific_content": "LOCKED_AT_V11",
+  "submission_lock": false,
+  "reason_submission_not_locked": [
+    "JISA metadata/declarations are not complete.",
+    "Figure format/resolution requirement remains pending.",
+    "Drive/GitHub migration verification has not yet passed."
+  ],
+  "prohibited_without_explicit_unlock": [
+    "new experiments",
+    "new claims",
+    "new numerical results",
+    "new datasets",
+    "new attacks",
+    "new baselines",
+    "scientific reinterpretation"
+  ]
+}
