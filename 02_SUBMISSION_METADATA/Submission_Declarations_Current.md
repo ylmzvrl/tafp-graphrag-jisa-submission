@@ -16,11 +16,11 @@ This study used publicly available benchmark datasets and synthetically generate
 
 ## Data availability
 
-The study used publicly available benchmark datasets subject to their respective licenses and a synthetic dataset generated for this research. The processed experimental artifacts and hash-verified evidence archives are maintained in private storage during peer review. Relevant artifacts can be made available to the editor and reviewers upon reasonable request, subject to applicable dataset licenses, repository-access controls, and platform restrictions.
+The third-party benchmark datasets used in this study are publicly available from their original providers under their respective licenses; the study also used synthetically generated data. The manuscript source, supplementary tables, claim-to-test evidence map, audit records, and SHA-256 manifests supporting the reported analyses are publicly available in the TAFP-GraphRAG JISA submission-support repository (https://github.com/ylmzvrl/tafp-graphrag-jisa-submission). Third-party benchmark datasets are not redistributed. Additional processed or synthetic artifacts can be provided to the editor and reviewers upon reasonable request, subject to applicable licenses and platform restrictions.
 
 ## Code availability
 
-The implementation, evaluation scripts, configuration records, and verified evidence archives are maintained in a private version-controlled repository. Reviewer access can be provided upon reasonable request during peer review. A public archival release may be prepared following acceptance, subject to licensing, security, and repository-governance requirements.
+The public submission-support repository contains the complete LaTeX source, figures, supplementary materials, audit records, and manifests for the submitted study, but it is not a complete public release of the implementation and evaluation code. The implementation and evaluation scripts are maintained in an access-controlled project repository and can be provided to the editor and reviewers upon reasonable request, subject to licensing, security, and repository-governance restrictions.
 
 ## AI-assisted figure declaration
 
@@ -36,10 +36,10 @@ The author acknowledges the computing environments used to execute and validate 
 
 ## Current scope state
 
-- Scientific main text modified in Phase 9D-S3: NO
+- Scientific main text modified in Phase 9F: administrative Data Availability and Code Availability statements only
 - New experiment: NO
 - New scientific claim: NO
 - Tables or figures modified: NO
 - Citation keys or bibliography modified: NO
-- GitHub modified: NO
+- GitHub modified in Phase 9E: YES; public sync independently verified
 - Submission lock applied: NO

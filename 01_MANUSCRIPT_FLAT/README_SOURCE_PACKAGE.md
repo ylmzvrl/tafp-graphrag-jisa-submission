@@ -9,4 +9,5 @@ Figures: `Figure_01.pdf` through `Figure_07.pdf`
 
 All files are at one directory level for Editorial Manager source ingestion.
 Citation style is numbered and sorted/compressed.
-The package was clean-room compiled and independently text-compared before packaging.
+Data Availability and Code Availability match the verified public repository scope.
+The package was clean-room compiled and fully rendered before packaging.

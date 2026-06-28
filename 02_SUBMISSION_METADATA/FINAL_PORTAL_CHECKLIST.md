@@ -22,8 +22,8 @@
 2. Confirm all corresponding-author contact fields in Editorial Manager.
 3. Upload the editable LaTeX source ZIP, manuscript PDF, separate figures,
    highlights, supplementary files, biography, and author photograph.
-4. After Phase 9E, verify that the public submission-support repository is
-   anonymously readable and that its path/size/SHA-256 inventory matches the
-   approved sync set.
-5. Do not apply the final submission lock until the declarations-tool document
-   and public-repository verification are complete.
+4. Public repository verification completed: https://github.com/ylmzvrl/tafp-graphrag-jisa-submission
+   Phase 9E verified 37/37 anonymous-clone path/size/SHA-256 parity at commit
+   4ffded68d57c90c09338a268d881ea2c9867b5c6.
+5. Do not apply the final submission lock until the declarations-tool Word
+   document has been generated and retained with the submission records.
