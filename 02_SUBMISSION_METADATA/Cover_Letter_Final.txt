@@ -1,0 +1,20 @@
+Dear Editor,
+
+Please consider the manuscript entitled “TAFP-GraphRAG: An Empirical Topology-Aware Framework for Protecting Sensitive Relations in Graph Retrieval-Augmented Generation” for publication in the Journal of Information Security and Applications.
+
+The manuscript is not under consideration for publication elsewhere.
+
+The manuscript presents an empirical, pre-indexing GraphRAG protection framework that integrates policy-guided concealment of sensitive relation semantics, exact per-node degree preservation in designated variants, auditable execution, and attack-specific privacy–utility evaluation. The evaluation separates relation-label concealment, structural inference, released-view attacks, marker leakage, structural retrieval utility, and retrieval-grounded relation question answering. The manuscript explicitly limits its claims to the evaluated protocols and does not claim formal differential privacy or universal protection.
+
+We believe the work is relevant to JISA because it addresses an applied information-security problem at the intersection of graph retrieval, privacy-aware system design, adversarial evaluation, and reproducible security auditing.
+
+The manuscript contains the required funding, competing-interest, ethics, data-availability, code-availability, and AI-use declarations. Supplementary material and hash-verified reproducibility records accompany the submission package.
+
+Thank you for your consideration.
+
+Sincerely,
+
+Yılmaz Vural
+College of Technology and Engineering, Westcliff University
+17877 Von Karman Ave, Irvine, CA 92614, United States
+yilmazvural@westcliff.edu

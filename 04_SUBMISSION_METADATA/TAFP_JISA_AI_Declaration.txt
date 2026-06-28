@@ -1,3 +1,0 @@
-Declaration of generative AI and AI-assisted technologies in the manuscript preparation process
-
-During the preparation of this work, the author used OpenAI ChatGPT to support language editing, structural organization, consistency checking, reference verification, and review of code and audit artifacts. The author reviewed, verified, and edited all AI-assisted output and takes full responsibility for the content of the published article.

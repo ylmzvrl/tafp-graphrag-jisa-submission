@@ -1,0 +1,11 @@
+Article title: TAFP-GraphRAG: An Empirical Topology-Aware Framework for Protecting Sensitive Relations in Graph Retrieval-Augmented Generation
+Author: Yılmaz Vural
+Corresponding author: Yes
+Affiliation: College of Technology and Engineering, Westcliff University
+Address: 17877 Von Karman Ave
+City: Irvine
+State/postcode: CA 92614
+Country: United States
+Email: yilmazvural@westcliff.edu
+Target journal: Journal of Information Security and Applications
+Article type: Research article

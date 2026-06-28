@@ -1,0 +1,4 @@
+• Policy-guided transformation selectively conceals sensitive relations.
+• Designated variants preserve every node degree exactly.
+• Attack outcomes remain dataset- and attacker-dependent.
+• Downstream utility exceeds two sensitivity-blind controls.
