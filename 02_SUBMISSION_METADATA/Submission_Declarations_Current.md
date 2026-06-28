@@ -1,6 +1,6 @@
 # TAFP-GraphRAG JISA Current Submission Declarations
 
-Status: CURRENT_SUBMISSION_TEXT
+Status: FINAL_LOCKED_SUBMISSION_TEXT
 
 ## Funding
 
@@ -9,6 +9,8 @@ This research did not receive any specific grant from funding agencies in the pu
 ## Declaration of competing interest
 
 The author declares that there are no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+
+The Elsevier declarations tool was completed using the no-conflict option. The tool-generated Word document is included in the final portal upload set without manual modification. SHA-256: `a3060652eae0f5185f03c90bd4ea990995601f4300cd68148b554d8871fc9169`.
 
 ## Ethics statement
 
@@ -41,5 +43,7 @@ The author acknowledges the computing environments used to execute and validate 
 - New scientific claim: NO
 - Tables or figures modified: NO
 - Citation keys or bibliography modified: NO
-- GitHub modified in Phase 9E: YES; public sync independently verified
-- Submission lock applied: NO
+- GitHub synchronized in Phase 9E and Phase 9F: YES; Phase 9F public HEAD `14d2ef507145beff22d26a67ea221ca923193886`; anonymous-clone parity PASS
+- Elsevier declarations-tool Word document: VERIFIED AND INCLUDED
+- Final immutable tag: `jisa-submission-final-v1`
+- Submission lock applied: YES after final commit/tag verification
